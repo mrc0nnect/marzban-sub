@@ -4082,7 +4082,7 @@ if ($isTextHTML) {
                                                 stroke-width="1.5" stroke="currentColor" :class="{'!rotate-180': expanded}"
                                                 class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                                 <path strokeLinecap="round" strokeLinejoin="round"
-                                                    d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                    d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                             </svg>
                                         </button>
                                     </h2>
@@ -4153,7 +4153,7 @@ if ($isTextHTML) {
                                                                         :class="{'!rotate-180': expanded}"
                                                                         class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                                                         <path strokeLinecap="round" strokeLinejoin="round"
-                                                                            d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                                            d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                                                     </svg>
                                                                 </button>
                                                             </h2>
@@ -4393,7 +4393,7 @@ if ($isTextHTML) {
                                                                         :class="{'!rotate-180': expanded}"
                                                                         class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                                                         <path strokeLinecap="round" strokeLinejoin="round"
-                                                                            d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                                            d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                                                     </svg>
                                                                 </button>
                                                             </h2>
@@ -4541,7 +4541,7 @@ if ($isTextHTML) {
                                                                         :class="{'!rotate-180': expanded}"
                                                                         class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                                                         <path strokeLinecap="round" strokeLinejoin="round"
-                                                                            d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                                            d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                                                     </svg>
                                                                 </button>
                                                             </h2>
@@ -4680,7 +4680,7 @@ if ($isTextHTML) {
                                                                         :class="{'!rotate-180': expanded}"
                                                                         class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                                                         <path strokeLinecap="round" strokeLinejoin="round"
-                                                                            d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                                            d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                                                     </svg>
                                                                 </button>
                                                             </h2>
@@ -5115,7 +5115,7 @@ if ($isTextHTML) {
                                                                         :class="{'!rotate-180': expanded}"
                                                                         class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                                                         <path strokeLinecap="round" strokeLinejoin="round"
-                                                                            d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                                            d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                                                     </svg>
                                                                 </button>
                                                             </h2>
@@ -5243,7 +5243,7 @@ if ($isTextHTML) {
                                                 stroke-width="1.5" stroke="currentColor" :class="{'!rotate-180': expanded}"
                                                 class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                                 <path strokeLinecap="round" strokeLinejoin="round"
-                                                    d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                    d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                             </svg>
                                         </button>
                                     </h2>
@@ -5304,7 +5304,7 @@ if ($isTextHTML) {
                                                                         :class="{'!rotate-180': expanded}"
                                                                         class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                                                         <path strokeLinecap="round" strokeLinejoin="round"
-                                                                            d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                                            d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                                                     </svg>
                                                                 </button>
                                                             </h2>
@@ -5432,7 +5432,7 @@ if ($isTextHTML) {
                                                                         :class="{'!rotate-180': expanded}"
                                                                         class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                                                         <path strokeLinecap="round" strokeLinejoin="round"
-                                                                            d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                                            d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                                                     </svg>
                                                                 </button>
                                                             </h2>
@@ -5845,7 +5845,7 @@ if ($isTextHTML) {
                                                                         :class="{'!rotate-180': expanded}"
                                                                         class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                                                         <path strokeLinecap="round" strokeLinejoin="round"
-                                                                            d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                                            d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                                                     </svg>
                                                                 </button>
                                                             </h2>
@@ -5951,7 +5951,7 @@ if ($isTextHTML) {
                                                 stroke-width="1.5" stroke="currentColor" :class="{'!rotate-180': expanded}"
                                                 class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                                 <path strokeLinecap="round" strokeLinejoin="round"
-                                                    d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                    d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                             </svg>
                                         </button>
                                     </h2>
@@ -5996,7 +5996,7 @@ if ($isTextHTML) {
                                                                         :class="{'!rotate-180': expanded}"
                                                                         class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                                                         <path strokeLinecap="round" strokeLinejoin="round"
-                                                                            d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                                            d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                                                     </svg>
                                                                 </button>
                                                             </h2>
@@ -6067,7 +6067,7 @@ if ($isTextHTML) {
                                                                         :class="{'!rotate-180': expanded}"
                                                                         class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                                                         <path strokeLinecap="round" strokeLinejoin="round"
-                                                                            d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                                            d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                                                     </svg>
                                                                 </button>
                                                             </h2>
@@ -6138,7 +6138,7 @@ if ($isTextHTML) {
                                                                         :class="{'!rotate-180': expanded}"
                                                                         class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                                                         <path strokeLinecap="round" strokeLinejoin="round"
-                                                                            d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                                            d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                                                     </svg>
                                                                 </button>
                                                             </h2>
@@ -6249,7 +6249,7 @@ if ($isTextHTML) {
                                             stroke-width="1.5" stroke="currentColor" :class="{'!rotate-180': expanded}"
                                             class="w-6 h-6 mx-6 transform origin-center transition duration-200 ease-out">
                                             <path strokeLinecap="round" strokeLinejoin="round"
-                                                d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+                                                d="M4.5 8.25l7.5 7.5 7.5-7.5" />
                                         </svg>
                                     </button>
                                 </h2>
